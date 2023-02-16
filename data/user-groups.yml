@@ -1034,6 +1034,12 @@
     position:
       lat: 5.3599517
       lng: -4.0082563
+  - name: Abakaliki KUG
+    country: Nigeria 
+    url: https://facebook.com/groups/1328112901377947/
+    position:
+      lat: 6.3231
+      lng: 8.1120
   - name: Abuja KUG
     country: Nigeria
     url: https://www.meetup.com/Kotlin-Abuja-User-Group-Nigeria/
